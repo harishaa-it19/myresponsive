@@ -1,0 +1,5 @@
+svg { width:200px; height:200px; border-radius:50%;
+    position:absolute; left:30%;
+    }
+    circle {fill:transparent; stroke-width:32;}
+    
